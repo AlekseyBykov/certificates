@@ -32,7 +32,11 @@
 | ООП (теория) — Минцифры РФ                            | 2025 | [PDF](certificates/oop/2025_OOP_Theory_Mintsifra.pdf)                                      |
 | **Golang**                                            |      |                                                                                            |
 | Golang Crash Course — Udemy                           | 2026 | [PDF](certificates/go/2026_Golang_Crash_Course_Udemy.pdf)                                  |
-| Разработка Web приложений на Go — Udemy               | 2026 | [PDF](certificates/java/core/2026_Golang_Web_Development_Udemy.pdf.pdf)                    |
+| Разработка Web приложений на Go — Udemy               | 2026 | [PDF](certificates/java/core/2026_Golang_Web_Development_Udemy.pdf)                        |
+| **DevOps**                                            |      |                                                                                            |
+| Linux The Complete Guide — Udemy                      | 2026 | [PDF](certificates/devops/2026_Linux_The_Complete_Guide_Udemy.pdf)                         |
+| Linux Administration — Udemy                          | 2026 | [PDF](certificates/devops/2026_Linux_Administration_Udemy.pdf)                             |
+| Prometheus and Grafana Bootcamp — Udemy               | 2026 | [PDF](certificates/devops/2026_Prometheus_and_Grafana_Bootcamp_Udemy.pdf)                  |
 
 ### Публикации
 
@@ -44,4 +48,4 @@
 
 |                                    | Год  | Ссылка                                                   |
 |------------------------------------|------|----------------------------------------------------------|
-| Почётная грамота «ВолгаИнформСеть» | 2014 | [PDF](certificates/awards/2014_Award_VolgaInformSet.pdf) |
+| Почетная грамота «ВолгоИнформСеть» | 2014 | [PDF](certificates/awards/2014_Award_VolgaInformSet.pdf) |
