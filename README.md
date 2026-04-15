@@ -37,6 +37,7 @@
 | Linux The Complete Guide — Udemy                      | 2026 | [PDF](certificates/devops/2026_Linux_The_Complete_Guide_Udemy.pdf)                         |
 | Linux Administration — Udemy                          | 2026 | [PDF](certificates/devops/2026_Linux_Administration_Udemy.pdf)                             |
 | Prometheus and Grafana Bootcamp — Udemy               | 2026 | [PDF](certificates/devops/2026_Prometheus_and_Grafana_Bootcamp_Udemy.pdf)                  |
+| DevOps Tools for Developers — Slurm                   | 2026 | [PNG](certificates/devops/2026_DevOps_Tools_for_Developers_Slurm.png)                      |
 
 ### Публикации
 
