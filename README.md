@@ -16,8 +16,9 @@
 | Spring Fundamentals — Udemy                           | 2021 | [PDF](certificates/spring/2021_Spring_Fundamentals_Udemy.pdf)                              |
 | Spring Framework (Level 1) — GeekBrains               | 2025 | [PDF](certificates/spring/2025_Spring_Fundamentals_GeekBrains.pdf)                         |
 | Microservices with Spring Boot & Spring Cloud — Udemy | 2025 | [PDF](certificates/java/microservices/2025_Microservices_SpringBoot_SpringCloud_Udemy.pdf) |
-| **Web Services и интеграция**                         |      |                                                                                            |
+| **Web Services & Messaging**                          |      |                                                                                            |
 | Java Web Services — UCC (TestProvider)                | 2019 | [PDF](certificates/java/web_services/2019_Java_Web_Services_TestProvider.pdf)              |
+| Apache Camel with Spring Boot — Udemy                 | 2026 | [PDF](certificates/java/messaging/2026_Apache_Camel_with_Spring_Boot_Udemy.pdf)            |
 | **Базы данных**                                       |      |                                                                                            |
 | PostgreSQL Fundamentals — UCC (TestProvider)          | 2019 | [PDF](certificates/postgresql/2019_PostgreSQL_Fundamentals_TestProvider.pdf)               |
 | **Maven**                                             |      |                                                                                            |
