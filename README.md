@@ -30,7 +30,6 @@
 | XML & XSLT Fundamentals — Udemy                       | 2020 | [PDF](certificates/xslt/2020_XML_XSLT_Fundamentals_Udemy.pdf)                              |
 | **Архитектура и ООП**                                 |      |                                                                                            |
 | SOLID Principles & Software Architecture — Udemy      | 2022 | [PDF](certificates/architecture/2022_SOLID_Software_Architecture_Udemy.pdf)                |
-| ООП (теория) — Минцифры РФ                            | 2025 | [PDF](certificates/oop/2025_OOP_Theory_Mintsifra.pdf)                                      |
 | **Golang**                                            |      |                                                                                            |
 | Golang Crash Course — Udemy                           | 2026 | [PDF](certificates/go/2026_Golang_Crash_Course_Udemy.pdf)                                  |
 | Разработка Web приложений на Go — Udemy               | 2026 | [PDF](certificates/java/core/2026_Golang_Web_Development_Udemy.pdf)                        |
