@@ -7,6 +7,7 @@
 | Java Professional — UCC (TestProvider)                | 2019 | [PDF](certificates/java/core/2019_Java_Professional_UCC.pdf)                               |
 | Java Programming — ИНТУИТ                             | 2020 | [PDF](certificates/java/core/2020_Java_Programming_INTUIT.pdf)                             |
 | Advanced Java — Udemy                                 | 2019 | [PDF](certificates/java/core/2019_Advanced_Java_Udemy.pdf)                                 |
+| Java Swing (GUI) Programming — Udemy                  | 2023 | [PDF](certificates/java/gui/2023_Java_Swing_GUI_Udemy.pdf)                                   |
 | Java EE Fundamentals — Udemy                          | 2019 | [PDF](certificates/java/ee/2019_Java_EE_Udemy.pdf)                                         |
 | Java Functional Programming — Udemy                   | 2021 | [PDF](certificates/java/core/2021_Java_Functional_Programming_Udemy.pdf)                   |
 | Java Intermediate — GeekBrains                        | 2025 | [PDF](certificates/java/core/2025_Java_Intermediate_GeekBrains.pdf)                        |
