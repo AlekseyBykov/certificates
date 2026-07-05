@@ -7,7 +7,7 @@
 | Java Professional — UCC (TestProvider)                | 2019 | [PDF](certificates/java/core/2019_Java_Professional_UCC.pdf)                               |
 | Java Programming — ИНТУИТ                             | 2020 | [PDF](certificates/java/core/2020_Java_Programming_INTUIT.pdf)                             |
 | Advanced Java — Udemy                                 | 2019 | [PDF](certificates/java/core/2019_Advanced_Java_Udemy.pdf)                                 |
-| Java Swing (GUI) Programming — Udemy                  | 2023 | [PDF](certificates/java/gui/2023_Java_Swing_GUI_Udemy.pdf)                                   |
+| Java Swing (GUI) Programming — Udemy                  | 2023 | [PDF](certificates/java/gui/2023_Java_Swing_GUI_Udemy.pdf)                                 |
 | Java EE Fundamentals — Udemy                          | 2019 | [PDF](certificates/java/ee/2019_Java_EE_Udemy.pdf)                                         |
 | Java Functional Programming — Udemy                   | 2021 | [PDF](certificates/java/core/2021_Java_Functional_Programming_Udemy.pdf)                   |
 | Java Intermediate — GeekBrains                        | 2025 | [PDF](certificates/java/core/2025_Java_Intermediate_GeekBrains.pdf)                        |
@@ -39,6 +39,13 @@
 | Linux Administration — Udemy                          | 2026 | [PDF](certificates/devops/2026_Linux_Administration_Udemy.pdf)                             |
 | Prometheus and Grafana Bootcamp — Udemy               | 2026 | [PDF](certificates/devops/2026_Prometheus_and_Grafana_Bootcamp_Udemy.pdf)                  |
 | DevOps Tools for Developers — Slurm                   | 2026 | [PNG](certificates/devops/2026_DevOps_Tools_for_Developers_Slurm.png)                      |
+
+### Дополнительное профессиональное образование
+
+| Программа                                                                       |  Год | Ссылка                                                         |
+|---------------------------------------------------------------------------------|-----:|----------------------------------------------------------------|
+| Технологии разработки и тестирования программного обеспечения — АНО ВО «МосТех» | 2026 | [PNG](diplomas/software-development-and-testing.png)           |
+| Информационные системы и бизнес-процессы — АНО ВО «МосТех»                      | 2026 | [PNG](diplomas/information-systems-and-business-processes.png) |
 
 ### Публикации
 
